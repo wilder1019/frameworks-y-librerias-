@@ -1,0 +1,31 @@
+<div class="row" style="margin: 0"><h3 class="text-center" id="Canciones">Canciones</h3>
+
+		<div class="row col-lg-6 col-md-12 col-xs-12"><h4 class="text-center">Adele</h4>
+
+		<div class="col">
+		<h5>My same</h5>
+		<audio src="music/Adele  -  My same.mp3" controls preload></audio> 
+		</div>
+
+		<div class="col">
+		<h5>I found a boy</h5>
+		<audio src="music/Adele - 21 - I Found A Boy.mp3" controls preload></audio>
+		</div>
+
+		</div>
+
+		<div class="col-lg-6 col-md-12 col-xs-12""><h4 class="text-center">Ed Sheeran</h4>
+
+		<div class="col">
+		<h5>I see fire</h5>
+			<audio src="music/I See Fire-Ed Sheeran.mp3" controls preload></audio>
+		</div>
+
+		<div class="col">
+		<h5 id="Canciones">Thinking out loud</h5>
+			<audio src="music/Thinking Out Loud-Ed Sheeran.mp3" controls preload></audio>
+		</div>
+
+		</div>
+
+		</div>

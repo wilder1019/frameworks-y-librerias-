@@ -1,0 +1,29 @@
+body{
+	background-color: #fffddd;
+}
+.fondopaco{
+  filter: alpha(opacity=85);
+  opacity: 0.85;
+}
+div {
+	/*border: 1px dashed black;*/
+	margin: 0 auto;
+	padding: 10px;
+}
+.bo{
+	border: 2px double #ADFF2F;
+	border-radius: 10px;
+}
+.c{
+	background-color: #fffddd;
+}
+.fo{
+	filter: alpha(opacity=50);
+  opacity: 0.5;
+}
+.col{
+	background-color: #DDA0DD;
+}
+.co{
+background-color:#AFEEEE;
+}
